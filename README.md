@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaishnavi Sangal
+ 👋 Hi, I’m Vaishnavi Sangal
 - 👀 I'm a B.TECH student at KIET GROUP OF INSTITUTION pursuing bachelor's degree in Computer Science And Engineering.Flutter  Ethusiast.
 
 
