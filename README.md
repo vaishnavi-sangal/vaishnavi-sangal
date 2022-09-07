@@ -1,6 +1,9 @@
  👋 Hi, I’m Vaishnavi Sangal
+ A flutter developer from INDIA
+ 
 - 👀 I'm a B.TECH student at KIET GROUP OF INSTITUTION pursuing bachelor's degree in Computer Science And Engineering.Flutter  Ethusiast.
-
+telescope
+--I’m currently working on Flutter and DSA
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaishnavi-sangal&theme=dark)](https://git.io/streak-stats)
