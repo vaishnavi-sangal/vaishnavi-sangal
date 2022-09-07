@@ -1,5 +1,5 @@
- 👋 Hi, I’m Vaishnavi Sangal
- A flutter developer from INDIA
+                                                           👋 Hi, I’m Vaishnavi Sangal
+                                                           A flutter developer from INDIA
  
 - 👀 I'm a B.TECH student at KIET GROUP OF INSTITUTION pursuing bachelor's degree in Computer Science And Engineering.Flutter  Ethusiast.
 telescope
